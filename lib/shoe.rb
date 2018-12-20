@@ -7,4 +7,8 @@ class Shoe
     @brand = brand
   end
   
+  def condition
+    puts "Your shoe is as good as new!"
+  end
+  
 end
